@@ -1,0 +1,13 @@
+{
+  "name": "image-pixelisation",
+  "version": "1.0.0",
+  "description": "A web framework that takes an image url and size and returns RGB colour values based on colour averages on the image.",
+  "main": "index.js",
+  "author": "Ceri \"Dr_D3stiny\" Thomas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "canvas": "^2.8.0",
+    "express": "^4.17.1"
+  }
+}
